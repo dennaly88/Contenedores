@@ -7,12 +7,12 @@ Los datos de los contenedores son
 
    SERVIDOR                                  IP 
 
- DESARROLLO                         192.168.5.120 . = ssh desarrollo@192.168.5.120
+ DESARROLLO                           192.168.5.120 . = ssh desarrollo@192.168.5.120
  DIRECTORIO                           192.168.5.121 .  = ssh desarrollo@192.168.5.121   
- SERVICIO MEDICO                    192.168.5.122 . = ssh desarrollo@192.168.5.122
- GOBIERNO BOLIVARIANO           192.168.5.123 .  = ssh desarrollo@192.168.5.123 
- FESTIVAL DE POESIA               192.168.5.124 .  = ssh desarrollo@192.168.5.124
- DESARROLLO                         192.168.6.53 . = ssh desarrollo@192.168.6.53 
+ SERVICIO MEDICO                      192.168.5.122 . = ssh desarrollo@192.168.5.122
+ GOBIERNO BOLIVARIANO                 192.168.5.123 .  = ssh desarrollo@192.168.5.123 
+ FESTIVAL DE POESIA                   192.168.5.124 .  = ssh desarrollo@192.168.5.124
+ DESARROLLO                           192.168.6.53 . = ssh desarrollo@192.168.6.53 
 
 Credenciales por ssh:
 usuario:desarrollo
